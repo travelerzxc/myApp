@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/myApp/static/css/main.257acd29.css",
+    "main.js": "/myApp/static/js/main.53367ed9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/myApp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/musicGroup.png": "/myApp/static/media/musicGroup.8848d8ae73c358311109.png",
+    "static/media/inst2.png": "/myApp/static/media/inst2.455437868c04a1e838f1.png",
+    "static/media/aboutMusicFront.png": "/myApp/static/media/aboutMusicFront.6923624f516b754f25fc.png",
+    "static/media/inst4.png": "/myApp/static/media/inst4.01e2f83fa884df144184.png",
+    "static/media/inst3.png": "/myApp/static/media/inst3.284ac8cf7441cbe15378.png",
+    "static/media/rightTopPicture.png": "/myApp/static/media/rightTopPicture.f8aa9bcf7ac9b16b537f.png",
+    "static/media/rightBotPicture.png": "/myApp/static/media/rightBotPicture.93ba4d3b19d5591d22b6.png",
+    "static/media/leftTopPicture.png": "/myApp/static/media/leftTopPicture.bdf888713393228b1364.png",
+    "static/media/inst5.png": "/myApp/static/media/inst5.0179246f833d0f8e7f4d.png",
+    "static/media/inst1.png": "/myApp/static/media/inst1.6f10dee8a910e1f2848b.png",
+    "static/media/leftBotPicture.png": "/myApp/static/media/leftBotPicture.b222d99593ae1c8cb7b1.png",
+    "static/media/aboutMusicBack.png": "/myApp/static/media/aboutMusicBack.571ad4a7953e85624fc9.png",
+    "static/media/Montserrat-Bold.ttf": "/myApp/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Regular.ttf": "/myApp/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/Raleway-Regular.ttf": "/myApp/static/media/Raleway-Regular.3927fa2a37e6f7f4c7c0.ttf",
+    "static/media/Raleway-Bold.ttf": "/myApp/static/media/Raleway-Bold.18960343b3da49bfd353.ttf",
+    "static/media/MyneBarack.png": "/myApp/static/media/MyneBarack.788b293e83c2675dcf21.png",
+    "static/media/johnDoe.png": "/myApp/static/media/johnDoe.b00181f37bd2a903b114.png",
+    "static/media/EllieJames.png": "/myApp/static/media/EllieJames.069d640852ed2fb72ffe.png",
+    "index.html": "/myApp/index.html",
+    "main.257acd29.css.map": "/myApp/static/css/main.257acd29.css.map",
+    "main.53367ed9.js.map": "/myApp/static/js/main.53367ed9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/myApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.257acd29.css",
+    "static/js/main.53367ed9.js"
+  ]
+}
